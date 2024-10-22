@@ -34,7 +34,7 @@ This project demonstrates a real-time object detection model using YOLOv8 with a
 🔧 Installation and Setup
 
   1.	Clone the Repository
-   git clone https://github.com/your-username/yolov8-human-identification.git
+   git clone https://github.com/PRAVEENKUMAR-003/HUMAN-IDENTIFIER
    cd yolov8-human-identification
 
   2.	Install Dependencies
